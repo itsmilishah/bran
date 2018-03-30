@@ -1,0 +1,6 @@
+data/*
+run_logs/*
+temp/*
+run.sh
+*.pyc
+*/*.pyc
